@@ -18,29 +18,32 @@ Proces jest całkowicie bezobsługowy i składa się z 4 kroków:
 ### 1. Przykładowe stopki wygenerowane przez AI
 *Poniżej znajdują się przykłady 3 stopek, które system wygenerował na podstawie danych z arkusza:*
 
-**[Przykład 1]**<br>
-<a href="https://github.com/user-attachments/assets/d6d11759-ea1f-4df0-8042-06503225e810" target="_blank">
-  <img width="411" height="211" alt="Przykład wygenerowanej stopki 1" src="https://github.com/user-attachments/assets/d6d11759-ea1f-4df0-8042-06503225e810" />
-</a>
+<details>
+  <summary><strong>▶️ Zobacz Przykład 1 (Kliknij, aby rozwinąć)</strong></summary>
+  <br>
+  <img width="411" height="211" alt="Przykładowa stopka 1" src="https://github.com/user-attachments/assets/d6d11759-ea1f-4df0-8042-06503225e810" />
+</details>
 
-<br><br>
+<br>
 
-**[Przykład 2]**<br>
-<a href="https://github.com/user-attachments/assets/1f9b9aac-c32b-4369-8898-34abbc39fd65" target="_blank">
-  <img width="603" height="220" alt="Przykład wygenerowanej stopki 2" src="https://github.com/user-attachments/assets/1f9b9aac-c32b-4369-8898-34abbc39fd65" />
-</a>
+<details>
+  <summary><strong>▶️ Zobacz Przykład 2 (Kliknij, aby rozwinąć)</strong></summary>
+  <br>
+  <img width="603" height="220" alt="Przykładowa stopka 2" src="https://github.com/user-attachments/assets/1f9b9aac-c32b-4369-8898-34abbc39fd65" />
+</details>
 
-<br><br>
+<br>
 
-**[Przykład 3]**<br>
-<a href="https://github.com/user-attachments/assets/3416abf7-7547-4af7-91bc-a61c0af1a737" target="_blank">
-  <img width="406" height="213" alt="Przykład wygenerowanej stopki 3" src="https://github.com/user-attachments/assets/3416abf7-7547-4af7-91bc-a61c0af1a737" />
-</a>
+<details>
+  <summary><strong>▶️ Zobacz Przykład 3 (Kliknij, aby rozwinąć)</strong></summary>
+  <br>
+  <img width="406" height="213" alt="Przykładowa stopka 3" src="https://github.com/user-attachments/assets/3416abf7-7547-4af7-91bc-a61c0af1a737" />
+</details>
 
 ### 2. Widok automatyzacji w Make.com
 *Tak wygląda logika scenariusza, którą zaprojektowałem:*
 
-![Scenariusz Make]
+[Scenariusz Make]
 <img width="1483" height="423" alt="Zrzut ekranu 2026-02-25 o 15 45 14" src="https://github.com/user-attachments/assets/5e59c9a5-6710-4b88-a470-31086fa5129a" />
 
 
