@@ -44,7 +44,11 @@ Proces jest całkowicie bezobsługowy i składa się z 4 kroków:
 *Tak wygląda logika scenariusza, którą zaprojektowałem:*
 
 [Scenariusz Make]
-<img width="1483" height="423" alt="Zrzut ekranu 2026-02-25 o 15 45 14" src="https://github.com/user-attachments/assets/5e59c9a5-6710-4b88-a470-31086fa5129a" />
+<details>
+  <summary><strong>▶️ Zobacz Scenariusz (Kliknij, aby rozwinąć)</strong></summary>
+  <br>
+  <img width="1483" height="423" alt="Zrzut ekranu 2026-02-25 o 15 45 14" src="https://github.com/user-attachments/assets/5e59c9a5-6710-4b88-a470-31086fa5129a" />
+</details>
 
 
 ## 🛠️ Technologie (Tech Stack)
