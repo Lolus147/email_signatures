@@ -18,9 +18,14 @@ Proces jest całkowicie bezobsługowy i składa się z 4 kroków:
 ### 1. Przykładowe stopki wygenerowane przez AI
 *Poniżej znajdują się przykłady 3 stopek, które system wygenerował na podstawie danych z arkusza:*
 
-![Przykład 1]<img width="411" height="211" alt="Zrzut ekranu 2026-02-25 o 15 48 35" src="https://github.com/user-attachments/assets/d6d11759-ea1f-4df0-8042-06503225e810" />
-![Przykład 2]<img width="603" height="220" alt="Zrzut ekranu 2026-02-25 o 15 49 42" src="https://github.com/user-attachments/assets/1f9b9aac-c32b-4369-8898-34abbc39fd65" />
-![Przykład 3]<img width="406" height="213" alt="Zrzut ekranu 2026-02-25 o 15 47 34" src="https://github.com/user-attachments/assets/3416abf7-7547-4af7-91bc-a61c0af1a737" />
+![Przykład 1]
+<img width="411" height="211" alt="Zrzut ekranu 2026-02-25 o 15 48 35" src="https://github.com/user-attachments/assets/d6d11759-ea1f-4df0-8042-06503225e810" />
+
+![Przykład 2]
+<img width="603" height="220" alt="Zrzut ekranu 2026-02-25 o 15 49 42" src="https://github.com/user-attachments/assets/1f9b9aac-c32b-4369-8898-34abbc39fd65" />
+
+![Przykład 3]
+<img width="406" height="213" alt="Zrzut ekranu 2026-02-25 o 15 47 34" src="https://github.com/user-attachments/assets/3416abf7-7547-4af7-91bc-a61c0af1a737" />
 
 
 ### 2. Widok automatyzacji w Make.com
